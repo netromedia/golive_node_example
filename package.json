@@ -1,6 +1,6 @@
 {
   "name": "golive_node_example",
-  "description": "Example code for Login to GoLive API",
+  "description": "Example code for Login to NetroMedia's GoLive API",
   "version": "0.1",
   "author": "netrowillh <will@netromedia.com>",
   "repository": {
@@ -13,3 +13,4 @@
   "engines": {
     "node": ">= 0.4.x < 0.7.x"
   }
+}
