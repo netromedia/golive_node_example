@@ -1,7 +1,7 @@
 {
   "name": "golive_node_example",
   "description": "Example code for Login to NetroMedia's GoLive API",
-  "version": "0.1",
+  "version": "0.1.0",
   "author": "netrowillh <will@netromedia.com>",
   "repository": {
     "type": "git",
