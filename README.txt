@@ -8,8 +8,21 @@
 *             support@netromedia.com		     *
 ******************************************************
 
-Install Node - https://github.com/joyent/node/wiki/Installation
+ - Developer access & documentation for the GoLive API can be requested via e-mail: support@netromedia.com
 
-Install npm - http://npmjs.org/
+ - Install Node - https://github.com/joyent/node/wiki/Installation
 
-git clone - 
+ - Install npm - http://npmjs.org/
+
+ - git clone - https://github.com/netrowillh/golive_node_example
+
+ - cd golive_node_example
+ 
+	- npm install
+ 
+		- Edit GoLive.js
+		- Set: Email
+		- Set: Password
+		
+	- Run it!
+		- node GoLive.js
