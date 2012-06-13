@@ -8,7 +8,7 @@
     "url": "http://github.com/netrowillh/golive_node_example"
   },
   "dependencies": {
-     "request": "2.2.x",
+     "request": "2.2.x"
   },
   "engines": {
     "node": ">= 0.4.x < 0.7.x"
