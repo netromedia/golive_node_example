@@ -8,7 +8,8 @@
 *             support@netromedia.com		     *
 ******************************************************
 
- - Developer access & documentation for the GoLive API can be requested via e-mail: support@netromedia.com
+ - Developer access for the GoLive API can be requested via e-mail: support@netromedia.com
+ - Documentation - https://login.netromedia.com/api
 
  - Install Node - https://github.com/joyent/node/wiki/Installation
 
